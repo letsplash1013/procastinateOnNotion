@@ -1,4 +1,4 @@
-# Setup Guide
+# procastinateOnNotion Setup Guide
 
 1. **Clone the Repo**: Download the project from your GitHub repository.
 
@@ -30,4 +30,3 @@
      ```
 
 7. **Run the Program**: Execute `main.py` to fetch Reddit posts and add them to your Notion database.
-# procastinateOnNotion
